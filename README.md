@@ -16,6 +16,8 @@ names in "quotes" means idk what their actual name is on discord
   - i'm too lazy to list them down here,  go check it yourself
 - music (is toggleable with the music note button)
 - [Clear] button is now a 🗑 button
+- made it a tad obvious on how to clear people
+- fixed h thing with mobile
 - background shrugs at you
 - slighly changed iogame sprite to be more yellow
 
