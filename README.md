@@ -4,7 +4,24 @@
 names in "quotes" means idk what their actual name is on discord
 
 ## changelog
-### February 18, 2023
+### 1.1 (also February 18, 2023 but 19 hours later or so)
+- more people
+  - uku1928
+  - Sh1penfire
+  - Kazuma
+  - itcannotbe
+  - TheMrAlbert
+  - Ado1928
+- all new and existing people now have "descriptions"
+  - i'm too lazy to list them down here,  go check it yourself
+- music (is toggleable with the music note button)
+- [Clear] button is now a 🗑 button
+- background shrugs at you
+- slighly changed iogame sprite to be more yellow
+
+probably forgot something but it likely wasn't too important
+
+### 1.0 (February 18, 2023)
 - the initial little people
   - ifritdiezel
   - Qmelz the Void
